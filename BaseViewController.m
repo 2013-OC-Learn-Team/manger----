@@ -33,6 +33,7 @@
     NSLog(@"zhangweisenond");
 >>>>>>> d033e7234b69013c258513d168a043c1c5b931fd
     NSLog(@"zhegezhenmeiyou");
+    NSLog(@"123");
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
     [imgViewOne setFrame:CGRectMake(70, 100, 200, 200)];
     
