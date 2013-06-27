@@ -26,6 +26,7 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
+<<<<<<< HEAD
     
     NSLog(@"zaijiayijuhua");
     
@@ -34,6 +35,8 @@
     NSLog(@"zhegezhenmeiyou");
     NSLog(@"123");
     NSLog(@"liuqingxuan");
+=======
+>>>>>>> e72358f8cfa96c81e73fd512a0a8b2b6df610e8b
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
     [imgViewOne setFrame:CGRectMake(70, 100, 200, 200)];
     
@@ -70,6 +73,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [self.view setBackgroundColor:[UIColor redColor]];
     self.view.backgroundColor=[UIColor redColor];
     [self.view setFrame:CGRectMake(self.view.frame.size.width*0.2, 0, self.view.frame.size.width*1.2, self.view.frame.size.height)];
     UILabel *labels=[[UILabel alloc] initWithFrame:CGRectMake(0, 0, 5, self.view.frame.size.height)];
