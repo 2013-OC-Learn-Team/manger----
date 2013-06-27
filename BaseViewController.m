@@ -26,12 +26,8 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
-<<<<<<< HEAD
     NSLog(@"nengbunengchuan");
     NSLog(@"zhangwei");
-=======
-    NSLog(@"zhangweisenond");
->>>>>>> d033e7234b69013c258513d168a043c1c5b931fd
     NSLog(@"zhegezhenmeiyou");
     NSLog(@"123");
     NSLog(@"liuqingxuan");
