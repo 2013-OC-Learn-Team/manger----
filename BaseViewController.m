@@ -26,6 +26,7 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
+    NSLog(@"nengbunengchuan");
     NSLog(@"zhangwei");
     NSLog(@"zhegezhenmeiyou");
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
