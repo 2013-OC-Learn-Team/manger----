@@ -26,8 +26,11 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
-    NSLog(@"zhangweisenond");
+    NSLog(@"nengbunengchuan");
+    NSLog(@"zhangwei");
     NSLog(@"zhegezhenmeiyou");
+    NSLog(@"123");
+    NSLog(@"liuqingxuan");
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
     [imgViewOne setFrame:CGRectMake(70, 100, 200, 200)];
     
