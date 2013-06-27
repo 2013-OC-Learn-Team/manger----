@@ -28,20 +28,28 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
     NSLog(@"zaijiayijuhua");
     
 =======
 >>>>>>> 77a6487316d9540869b7441c38d894b298e274c3
+=======
+    NSLog(@"123");
+=======
+>>>>>>> af3d52d97fc239780c42a712f549768687bf8b89
     NSLog(@"nengbunengchuan");
     NSLog(@"zhangwei");
     NSLog(@"zhegezhenmeiyou");
     NSLog(@"123");
     NSLog(@"liuqingxuan");
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> e72358f8cfa96c81e73fd512a0a8b2b6df610e8b
 =======
+=======
+>>>>>>> af3d52d97fc239780c42a712f549768687bf8b89
 >>>>>>> 77a6487316d9540869b7441c38d894b298e274c3
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
     [imgViewOne setFrame:CGRectMake(70, 100, 200, 200)];
