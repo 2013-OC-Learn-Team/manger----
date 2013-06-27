@@ -26,6 +26,7 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
+    NSLog(@"123");
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
     [imgViewOne setFrame:CGRectMake(70, 100, 200, 200)];
     
