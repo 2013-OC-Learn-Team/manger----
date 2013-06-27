@@ -26,6 +26,9 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
+    
+    NSLog(@"zaijiayijuhua");
+    
     NSLog(@"nengbunengchuan");
     NSLog(@"zhangwei");
     NSLog(@"zhegezhenmeiyou");
