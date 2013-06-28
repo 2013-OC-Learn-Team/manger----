@@ -29,7 +29,6 @@
     imgViewOne=[UIButton buttonWithType:UIButtonTypeRoundedRect];
     [imgViewOne setFrame:CGRectMake(70, 100, 200, 200)];
     
-    
     SaveAndLoadImage *loadImages=[[SaveAndLoadImage alloc] init];
     [imgViewOne setImage:[UIImage imageWithData:[loadImages loadImage:[loadImages returnFilePath]]] forState:UIControlStateNormal];
     
